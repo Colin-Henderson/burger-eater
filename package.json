@@ -1,0 +1,26 @@
+{
+  "name": "burger-eater",
+  "version": "1.0.0",
+  "description": "restaraunt app that lets users input the names of burger they would like to eat ",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colin-Henderson/burger-eater.git"
+  },
+  "author": "Colin C. Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colin-Henderson/burger-eater/issues"
+  },
+  "homepage": "https://github.com/Colin-Henderson/burger-eater#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
